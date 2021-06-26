@@ -1,0 +1,74 @@
+[
+    {
+        "nombre":"Uva",
+        "precio":1000,
+        "cantidad":20,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Manzana Verde",
+        "precio":700,
+        "cantidad":20,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Manzana Roja",
+        "precio":600,
+        "cantidad":50,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Naranja",
+        "precio":500,
+        "cantidad":20,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Piña",
+        "precio":1800,
+        "cantidad":12,
+        "unidad": "Un"
+    },
+    {
+        "nombre":"Banana",
+        "precio": 850,
+        "cantidad":60,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Cebolla",
+        "precio": 600,
+        "cantidad":60,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Zanahoria",
+        "precio": 500,
+        "cantidad":60,
+        "unidad": "kg"
+    },
+    {
+        "nombre":"Brocoli",
+        "precio": 1000,
+        "cantidad":30,
+        "unidad": "Un"
+    },
+    {
+        "nombre":"Coliflor",
+        "precio": 1200,
+        "cantidad":30,
+        "unidad": "Un"
+    },
+    {
+        "nombre":"Papa",
+        "precio": 500,
+        "cantidad":2,
+        "unidad": "Kg"
+    },
+    {
+        "nombre":"Frutilla",
+        "precio": 1000,
+        "cantidad":0,
+        "unidad": "Kg"
+    }
+]
